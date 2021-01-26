@@ -4,18 +4,12 @@ Polarization.py is a Python module for generating a surface normal map given pol
 ## Dependencies
 The following modules are needed by Polarization.py.
 
--numpy
-
--cv2
-
--cmath
-
--scipy.signal
-
--PIL
-
--matplotlib.pyplot
-
+-numpy\
+-cv2\
+-cmath\
+-scipy.signal\
+-PIL\
+-matplotlib.pyplot\
 
 These will be imported as follows:
 
