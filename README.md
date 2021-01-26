@@ -9,7 +9,7 @@ The following modules are needed by Polarization.py.
 -cmath\
 -scipy.signal\
 -PIL\
--matplotlib.pyplot\
+-matplotlib.pyplot
 
 These will be imported as follows:
 
@@ -22,7 +22,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 ```
 ## Usage
-In order to run Polarization.py on a polarization image, change the global FILENAME variable assigned at the start to the address of your chosen file. 
+In order to run Polarization.py on a polarization image, change the global FILENAME variable assigned at the start to the address of your chosen file. An example is shown below.
 
 ```python
 FILENAME = 'C:\\Users\\akharbanda\\.spyder-py3\\Asymmetrical Fruit\\quad3.tiff'
