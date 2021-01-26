@@ -9,7 +9,7 @@ The following modules are need to be installed as they are used in Polarization.
 -cmath\
 -scipy.signal\
 -PIL\
--matplotlib.pyplot\
+-matplotlib.pyplot
 
 These will be imported as follows:
 
