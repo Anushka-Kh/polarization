@@ -22,10 +22,10 @@ from PIL import Image
 import matplotlib.pyplot as plt
 ```
 ## Usage
-In order to run Polarization.py on a polarization image, change the global FILENAME variable assigned at the start to the address of your chosen file. An example is shown below.
+In order to run Polarization.py on a polarization image, enter the file address of the input quad polarization image when prompted. An example is shown below.
 
 ```python
-FILENAME = 'C:\\Users\\akharbanda\\.spyder-py3\\Asymmetrical Fruit\\quad3.tiff'
+Enter File address for the input quad image : C:\\Users\\akharbanda\\.spyder-py3\\Asymmetrical Fruit\\quad3.tiff
 ```
  
     
