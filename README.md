@@ -24,8 +24,8 @@ import matplotlib.pyplot as plt
 ## Usage
 In order to run Polarization.py on a polarization image, enter the file address of the input quad polarization image when prompted. An example is shown below.
 
-```python
+
 Enter File address for the input quad image : C:\\Users\\akharbanda\\.spyder-py3\\Asymmetrical Fruit\\quad3.tiff
-```
+
  
     
