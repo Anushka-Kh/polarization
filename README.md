@@ -11,16 +11,6 @@ The following modules need to be installed as they are used by Polarized.py.
 -PIL\
 -matplotlib.pyplot
 
-These will be imported as follows:
-
-```python
-import numpy as np
-import cv2
-import cmath
-from scipy.signal import savgol_filter
-from PIL import Image
-import matplotlib.pyplot as plt
-```
 ## Configuration
 In order for the bin file to import the Polarized.py module, the path that Polarized.py exists in needs to be added to the site-packages directory. This is because this is one of the directories python searches to import modules. 
 
