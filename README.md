@@ -24,7 +24,7 @@ import matplotlib.pyplot as plt
 ## Configuration
 In order for the bin file to import the Polarized.py module, the path that Polarized.py exists in needs to be added to the site-packages directory. This is because this is one of the directories python searches to import modules. 
 
-1) In order to add the path to the site-packages directory, first create a .pth file which incluedes the address of the directory that Polarized.py exists in. A .pth file is a txt file with a .pth extension in its name.
+1) In order to add the path to the site-packages directory, first create a .pth file which includes the address of the directory that Polarized.py exists in. A .pth file is a txt file with a .pth extension in its name.
 
 2) Secondly, find the address of the site-packages directory. To do this, type the following commands in a python console.
 
