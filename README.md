@@ -13,6 +13,8 @@ The following modules and packages need to be installed as they are used by Pola
 -Pillow\
 -matplotlib
 
+The Python version used is 3.8.6.
+
 ## Configuration
 In order for the bin file to import the Polarized.py module, the path that Polarized.py exists in needs to be added to the site-packages directory. This is because this is one of the directories python searches to import modules. 
 
