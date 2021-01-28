@@ -30,5 +30,7 @@ In order to run Polarization.py on a polarization image, enter the file address 
 
 Enter File address for the input quad image : C:\\Users\\akharbanda\\.spyder-py3\\Asymmetrical Fruit\\quad3.tiff
 
+## Output
+There should be two figures produced as outputs. A continuos surface normal map and a discrete surface normal map with arrows.
  
     
