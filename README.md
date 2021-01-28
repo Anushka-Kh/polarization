@@ -8,10 +8,9 @@ The lib folder contains the module Polarized.py imported by the program Execute.
 The following modules and packages need to be installed as they are used by Polarized.py.
 
 -numpy\
--cv2\
--cmath\
+-opencv-python\
 -scipy\
--PIL\
+-Pillow\
 -matplotlib
 
 ## Configuration
