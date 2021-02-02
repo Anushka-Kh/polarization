@@ -4,7 +4,7 @@ The degree and angle of polarization information of reflected light can be used 
 Polarized.py is a Python module for generating a surface normal map given polarization images from 0, 45, 90 and 135 degree filters. These images are obtained from a single image displaying the four images from the different filters in quadrants. The instrument used was the FLIR Blackfly S Machine Vision camera. In order to calculate the surface normals, intermediate processes are done such as calculating angle and degree of linear polarization images, building an object mask, calculating ambiguous surface normals at four orientations, finding the coordinates for the line of ambiguity, building masks for hemispheres separated by the line of ambiguity and finally producing a fully disambiguated surface normal map. 
 
 ## Structure Overview
-The zip file called Polarization contains all the relevant information required to run the code. It has the following structure.
+The zip file called Polarization contains all the relevant information required to run the code. It has the following structure.\
 -lib\
 The lib folder contains the module Polarized.py. \
 -bin\
