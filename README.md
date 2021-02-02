@@ -5,6 +5,7 @@ Polarized.py is a Python module for generating a surface normal map given polari
 
 ## Structure Overview
 The zip file called Polarization contains all the relevant information required to run the code. It has the following structure.\
+\
 -lib\
 The lib folder contains the module Polarized.py. \
 -bin\
